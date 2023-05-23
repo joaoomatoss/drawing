@@ -1,2 +1,3 @@
 def red():
     print("Vermelho")
+
