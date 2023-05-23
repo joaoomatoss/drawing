@@ -1,2 +1,0 @@
-def oval():
-    print("oval")

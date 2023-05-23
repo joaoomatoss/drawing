@@ -1,2 +1,0 @@
-def red():
-    print("Vermelho")
